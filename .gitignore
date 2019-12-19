@@ -1,0 +1,5 @@
+*.o
+*.log
+*.class
+*.log
+resources/sprites/output.c
