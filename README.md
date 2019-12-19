@@ -1,7 +1,5 @@
-# SnakeOS
+# ![SnakeOS icon](resources/images/icon.png) SnakeOS
 SnakeOS is a simple standalone multiboot "kernel" game developed for the i386 architecture, written in c and assembly. (WIP)
-
-![SnakeOS gif](resources/images/snake1.png)
 
 ![SnakeOS gif](resources/images/snake.gif)
 
